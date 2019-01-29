@@ -1,0 +1,7 @@
+C:\Users\Adrian\Desktop\Homework\CrudBookApp\CrudBookApp\bin\Debug\CrudBookApp.exe.config
+C:\Users\Adrian\Desktop\Homework\CrudBookApp\CrudBookApp\bin\Debug\CrudBookApp.exe
+C:\Users\Adrian\Desktop\Homework\CrudBookApp\CrudBookApp\bin\Debug\CrudBookApp.pdb
+C:\Users\Adrian\Desktop\Homework\CrudBookApp\CrudBookApp\obj\Debug\CrudBookApp.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Homework\CrudBookApp\CrudBookApp\obj\Debug\CrudBookApp.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Homework\CrudBookApp\CrudBookApp\obj\Debug\CrudBookApp.exe
+C:\Users\Adrian\Desktop\Homework\CrudBookApp\CrudBookApp\obj\Debug\CrudBookApp.pdb
